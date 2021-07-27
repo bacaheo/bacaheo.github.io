@@ -11,3 +11,6 @@ Note lại một vài ý tưởng:
 
 ## (2021-07-27 10g33) bacaheo.github.io
 Just some for next GEN
+
+## Copyright
+© 2021 Xây dựng bởi Ba Cá Heo
